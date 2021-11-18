@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5oubeib
-- 👀 I’m interested in A.I , Machine Learning 
-- 🌱 I’m currently learning python      
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently dart flutter    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khoubeibdjebbi10@gmail.com
 
